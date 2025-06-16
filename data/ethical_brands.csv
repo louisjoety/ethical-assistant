@@ -1,0 +1,28 @@
+brand,category,labor_rating,carbon_rating,animal_welfare,governance,summary,transparency,fair_trade,renewable_energy,recycled_materials,supply_chain_audits,diversity_score,green_certified,local_sourcing,ethical_innovations,public_reporting
+Patagonia,Apparel,5,4,5,4,"Patagonia is committed to fair labor practices and sustainability.",High,Yes,Yes,Yes,Regular,5,Yes,Yes,"Biodegradable coats",Yes
+Shein,Apparel,1,1,1,1,"Shein has been criticized for poor labor conditions and environmental impact.",Low,No,No,No,None,1,No,No,"Fast fashion only",No
+IKEA,Furniture,3,3,4,3,"IKEA has made some progress in sustainability and sourcing.",Medium,Partial,Yes,Partial,Occasional,3,Yes,Partial,"Sustainable wood",Yes
+Allbirds,Shoes,5,5,4,4,"Allbirds focuses on carbon-neutral production and ethical materials.",High,Yes,Yes,Yes,Regular,4,Yes,Yes,"Carbon-neutral sneakers",Yes
+Nestle,Food,2,2,2,1,"Nestle has faced controversies around sourcing and labor rights.",Low,No,Partial,No,None,2,No,No,"Controversial sourcing",No
+The North Face,Apparel,3,3,3,3,"The North Face has some initiatives around sustainability and materials.",Medium,Partial,Yes,Partial,Occasional,3,Yes,Partial,"Recycled fabrics",Yes
+Seventh Generation,Household,5,5,5,4,"Seventh Generation is known for eco-friendly cleaning products.",High,Yes,Yes,Yes,Regular,5,Yes,Yes,"Plant-based ingredients",Yes
+Dr. Bronner's,Personal Care,5,5,5,5,"Dr. Bronner's emphasizes fair trade and organic ingredients.",High,Yes,Yes,Yes,Regular,5,Yes,Yes,"Fair trade soaps",Yes
+Tesla,Automotive,3,4,3,3,"Tesla leads in electric vehicles but has faced labor scrutiny.",Medium,Partial,Yes,Partial,Occasional,3,Yes,Partial,"Electric cars",Yes
+Lush,Cosmetics,5,4,5,4,"Lush advocates against animal testing and supports ethical sourcing.",High,Yes,Yes,Yes,Regular,4,Yes,Yes,"Cruelty-free cosmetics",Yes
+Ben & Jerry's,Food,4,3,5,4,"Ben & Jerry's supports fair trade and social justice initiatives.",High,Yes,Partial,Partial,Regular,4,Yes,Yes,"Fair trade ice cream",Yes
+Eileen Fisher,Apparel,4,4,4,4,"Eileen Fisher promotes sustainability and labor fairness.",High,Yes,Yes,Yes,Regular,4,Yes,Yes,"Recycled fabrics",Yes
+Warby Parker,Eyewear,4,4,4,4,"Warby Parker focuses on affordable eyewear with social impact.",Medium,Partial,Yes,Partial,Occasional,4,Yes,Partial,"Buy a pair, give a pair",Yes
+Seiko,Watches,3,3,3,3,"Seiko has basic sustainability practices and some governance efforts.",Medium,No,Partial,Partial,Occasional,3,Partial,Partial,"Sustainable materials",Partial
+TOMS,Shoes,4,3,5,4,"TOMS pioneered the one-for-one giving model.",High,Yes,Partial,Partial,Regular,4,Yes,Yes,"One-for-one shoes",Yes
+Beyond Meat,Food,5,5,5,4,"Beyond Meat develops plant-based meat alternatives with low carbon footprint.",High,Yes,Yes,Yes,Regular,5,Yes,Yes,"Plant-based proteins",Yes
+Stella McCartney,Apparel,5,5,5,5,"Stella McCartney leads with luxury sustainable fashion and cruelty-free materials.",High,Yes,Yes,Yes,Regular,5,Yes,Yes,"Vegan leather",Yes
+Ecovative,Packaging,5,5,5,4,"Ecovative produces sustainable packaging from mushroom materials.",High,Yes,Yes,Yes,Regular,5,Yes,Yes,"Mushroom packaging",Yes
+Patak's,Food,3,3,3,3,"Patak's has moderate sustainability efforts and supports local sourcing.",Medium,Partial,Partial,Partial,Occasional,3,Partial,Partial,"Local spices",Partial
+All Good,Personal Care,5,5,5,5,"All Good offers organic, cruelty-free personal care products.",High,Yes,Yes,Yes,Regular,5,Yes,Yes,"Organic ingredients",Yes
+Tentree,Apparel,5,5,5,4,"Tentree plants 10 trees for every product sold and focuses on sustainability.",High,Yes,Yes,Yes,Regular,5,Yes,Yes,"Tree planting",Yes
+Method,Household,5,5,5,4,"Method produces eco-friendly cleaning supplies with transparent ingredients.",High,Yes,Yes,Yes,Regular,5,Yes,Yes,"Biodegradable formulas",Yes
+Dr. Hauschka,Personal Care,5,5,5,5,"Dr. Hauschka uses biodynamic farming and supports ethical trade.",High,Yes,Yes,Yes,Regular,5,Yes,Yes,"Biodynamic ingredients",Yes
+Etsy,Marketplace,4,4,4,4,"Etsy promotes handmade, sustainable goods with a strong seller code of conduct.",High,Yes,Partial,Partial,Regular,4,Yes,Partial,"Sustainable marketplace",Yes
+Boxed Water,Food & Beverage,5,5,5,4,"Boxed Water sells water in recyclable cartons to reduce plastic waste.",High,Yes,Yes,Yes,Regular,5,Yes,Yes,"Carton packaging",Yes
+Weleda,Personal Care,5,5,5,5,"Weleda is known for natural, organic cosmetics and ethical sourcing.",High,Yes,Yes,Yes,Regular,5,Yes,Yes,"Natural cosmetics",Yes
+Blue Apron,Food Delivery,3,3,3,3,"Blue Apron works on sustainable sourcing but has mixed reviews.",Medium,Partial,Partial,Partial,Occasional,3,Partial,Partial,"Sustainable recipes",Partial

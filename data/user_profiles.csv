@@ -1,0 +1,13 @@
+user_id,name,eco_conscious,local_brands,minimalist_packaging,points,location,consent_level
+1,Alex,True,False,True,120,Singapore,full
+2,Jamie,False,True,True,85,Singapore,basic
+3,Sophia,True,True,False,150,USA,full
+4,Liam,False,False,True,60,UK,basic
+5,Emma,True,False,True,200,Canada,full
+6,Noah,True,True,True,180,Australia,full
+7,Olivia,False,True,False,75,Germany,basic
+8,Lucas,True,False,False,95,France,full
+9,Mia,False,True,True,50,Japan,basic
+10,Ethan,True,True,True,220,South Korea,full
+11,Ava,False,False,True,80,Brazil,basic
+12,James,True,True,False,130,India,full
