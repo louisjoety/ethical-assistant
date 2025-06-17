@@ -49,10 +49,10 @@
    pip install -r requirements.txt
    ```
 
-5. Create a `.env` file in the root directory and add your Gemini API key:
+5. Create a `.streamlit/secrets.toml` file in the root directory of your project, and add your Gemini API key:
 
-   ```env
-   GEMINI_API_KEY=your_api_key_here
+   ```toml
+   GEMINI_API_KEY = "your_api_key_here"
    ```
 
 ## Usage
@@ -60,7 +60,7 @@
 Run the Streamlit app:
 
 ```bash
-streamlit run app.py
+streamlit run Home.py
 ```
 
 Open the URL shown in your browser (usually `http://localhost:8501`).
